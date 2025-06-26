@@ -1,0 +1,5 @@
+pytest
+numpy
+trajectory_planning_helpers
+matplotlib
+shapely
